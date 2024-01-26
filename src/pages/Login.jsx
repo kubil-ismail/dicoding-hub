@@ -102,7 +102,7 @@ function Login() {
           disabled={isLoading}
           fullWidth
         >
-          {isLoading ? 'Loading...' : 'Loginss'}
+          {isLoading ? 'Loading...' : 'Login'}
         </Button>
 
         <Box display="flex" justifyContent="center" mt={2}>
